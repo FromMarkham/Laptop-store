@@ -7,7 +7,7 @@ import javax.swing.*;
 public class LaptopCentralTitleFrame extends JFrame implements ActionListener{
 
 	//Stores the logo of laptop central in an ImageIcon object 
-	private ImageIcon laptopCentralLogo=new ImageIcon("/Users/bobwang/Desktop/LaptopCentralLogo.png");
+	private ImageIcon laptopCentralLogo=new ImageIcon("/Desktop/LaptopCentralLogo.png");
 	
 	//JLabel storing the the image icon object from line 10 
 	private JLabel laptopCentralLogoImage=new JLabel(laptopCentralLogo);
